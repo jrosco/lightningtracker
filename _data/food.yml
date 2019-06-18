@@ -2,10 +2,11 @@ websites:
   - name: LN.PIZZA
     url: https://ln.pizza/
     lightning: Yes #TODO: Don't need this, should be by default
+    bitcoin: Yes
     other: No
     summary:
       text: Order Dominos Pizza in the US via Lightning Network
-    # keywords: pizza order dominos
+    keywords: pizza order dominos food
     twitter: fold_app
     instagram: foldapp
     linkedin: card-for-coin
@@ -20,11 +21,8 @@ websites:
     url: https://shop.energy-kitchen.ch/
     img: energy_kitchen.png
     lightning: Yes
+    bitcoin: No
     other: No
-    # summary: 
-    #   text: Buy delicious food and drinks and pay with Bitcoin over the Lightning Network
-    facebook: barfoo
-    # doc: https://shop.energy-kitchen.ch/#/shop/help
   
   - name:  Classic Crust Pizza
     url: https://www.classiccrustaz.com/
@@ -33,6 +31,7 @@ websites:
     other: No
     summary:
       text: Pizzeria in Phoenix, USA (payments in store).
+    keywords: pizza food 
     facebook: ClassicCrustPizza
     instagram: classiccrustaz
     # doc: https://www.classiccrustaz.com/
@@ -41,8 +40,10 @@ websites:
     url: https://www.kaffebox.no/product/kaffebox-gift-subscription/
     img:  kaffebox.png 
     lightning: Yes
+    bitcoin: Yes
     other: No
     summary:
       text: Scandinavian roasted specialty coffee shipping worldwide
+    keywords: food coffee
     # doc: https://www.kaffebox.no/about/
     

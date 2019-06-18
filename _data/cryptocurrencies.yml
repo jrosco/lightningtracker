@@ -3,6 +3,7 @@ websites:
     url: https://www.cardwallet.com/en/home/
     img: 
     lightning: Yes
+    bitcoin: Yes
     other: No
     summary:
       text: High secure offline cold storage card for Bitcoin.
@@ -14,12 +15,13 @@ websites:
   - name: Fixed Float 
     url: https://fixedfloat.com/
     img: fixedfloat.png
-    lightning: Yes 
+    lightning: Yes
+    bitcoin: Yes
     other:
       coins: BTC, LTC, ETH, XMR, ZCASH, Others
     summary:
       text: Exchange the TOP-20 сryptocurrencies with lightning network! No registration required.
-    keywords: exchange 
+    keywords: exchanges
     twitter: fixedfloat
     instagram: fixedfloat
     facebook: fixedfloat
@@ -29,12 +31,13 @@ websites:
     url: http://zigzag.io/
     img: zigzag.png
     lightning: Yes
+    bitcoin: Yes
     other:
       coins: BTC, ETH, LTC, DASH
     twitter: bitlumio    
     summary:
       text: Exchange Top Cryptocurrencies in seconds with low fees
-    keywords: bitcoin exchange lightning # TODO: Add to add a function to allow searching keywords
+    keywords: bitcoin exchanges lightning
     node:
       key: 0232e20e7b68b9b673fb25f48322b151a93186bffe4550045040673797ceca43cf
       uri: lightning.bitlum.io:9735

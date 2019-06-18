@@ -1,0 +1,16 @@
+websites:
+  - name: LN Games 
+    url: https://lngames.net/
+    sections:
+      - games 
+      - betting
+    lightning: Yes 
+    Bitcoin: No
+    other: No
+    summary:
+      text: games betting
+    keywords: Games 
+    twitter: lngames_net 
+    node:
+      key: 03952f8756c036669440e06c782c7f21732886ccf04052e0e6e792f8f5a490f6aa
+      uri: 207.180.252.186:9735

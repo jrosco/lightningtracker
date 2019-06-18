@@ -171,3 +171,20 @@ function debounce(func, wait) {
 		if (!timeout) func.apply(context, args);
 	};
 };
+
+$(document).any(function () {
+  var button = document.getElementById("copyTextBtn");
+
+  console.log(button);
+  if (button !== null) {
+    button.addEventListener('click', copyTextInput);
+  }
+});  
+function copyTextInput() {
+  var text = document.getElementById("copyTextInput");
+  
+  console.log(text);
+  text.select();
+  document.execCommand("copy");
+  alert("Copied the text: " + text.value);
+};
