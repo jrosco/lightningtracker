@@ -1,10 +1,11 @@
 websites:
-  - name: 
-    url: 
+  - name: Bitcoin-Lightning.de 
+    url: https://bitcoin-lightning.de
     lightning: Yes 
+    Bitcoin: Yes
     other: No
     summary:
-      text:
+      text: Buy lightning-themed shirts
     keywords: 
     twitter: 
     instagram: 
@@ -12,5 +13,5 @@ websites:
     facebook: 
     country: 
     node:
-      key: 
-      uri: 
+      key: 03f02d965aea25de84613ad2be36573d2bd8c6d6dd47d9a516d233098c281d3ae7
+      uri: 85.25.255.147:9735
