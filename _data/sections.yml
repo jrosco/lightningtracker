@@ -1,6 +1,6 @@
-- id: betting
-  title: Betting
-  icon: bullseye
+# - id: betting
+#   title: Betting
+#   icon: bullseye
 
 # - id: cloud
 #   title: Cloud Computing
@@ -10,9 +10,9 @@
 #   title: Communication
 #   icon: chat
 
-- id: cryptocurrencies
-  title: Cryptocurrencies
-  icon: btc
+# - id: cryptocurrencies
+#   icon: btc
+#   title: Cryptocurrencies
 
 # - id: developer
 #   title: Developer
@@ -34,17 +34,22 @@
 #   title: Entertainment
 #   icon: play
 
+
+- id: example
+  title: Example
+  icon: code
+
 # - id: finance
 #   title: Finance
 #   icon: money
 
-- id: food
-  title: Food
-  icon: utensils
+# - id: food
+#   title: Food
+#   icon: utensils
 
-- id: gaming
-  title: Gaming
-  icon: gamepad
+# - id: gaming
+#   title: Gaming
+#   icon: gamepad
 
 # - id: government
 #   title: Government
@@ -74,9 +79,9 @@
 #   title: Legal
 #   icon: legal
 
-- id: merchandise
-  title: Merchandise
-  icon: shopping cart
+# - id: merchandise
+#   title: Merchandise
+#   icon: shopping cart
 
 # - id: other
 #   title: Other
@@ -158,6 +163,6 @@
 #   title: VPN Providers
 #   icon: shield alternate
 
-- id: websites
-  title: websites
-  icon: tasks
+# - id: websites
+#   title: websites
+#   icon: tasks
