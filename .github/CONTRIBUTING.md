@@ -1,4 +1,4 @@
-Contributing to TwoFactorAuth.org
+Contributing to LightningTracker.io
 =======================
 
 All the data is managed through a series of [Yaml][yaml] files so it may be
@@ -20,10 +20,7 @@ are stored in folders corresponding to each of those categories in their own
    utility such as OptiPNG before committing it to the repo.
 3. **HTTPS links**: All sites that support HTTPS should also be linked with an
    HTTPS address.
-4. **Alexa top 200k**: A new site, that is not already listed, has to be within the
-   Alexa top 200k ranking. You can check the ranking of a site [here](https://www.alexa.com/siteinfo).
-5. **No 2FA providers**: We do not list 2FA providers, such as [Authy](https://authy.com/), [Duo](https://duo.com/) or [Google Authenticator](https://github.com/google/google-authenticator).
-6. **Be Awesome**: You need to be awesome. That is all.
+4. **Be Awesome**: You need to be awesome. That is all.
 
 ## Running Locally
 
@@ -249,23 +246,6 @@ website. There are 4 ways to customize how it is displayed:
   status: <url to documentation>
   ```
 
-## A Note on Definitions
-
-A lot of people have different ideas of what constitutes Two Factor Auth and
-what doesn't, so it stands to reason that we should clarify a bit. For the
-purposes of this site, Two Factor Auth is defined as any service provided as a
-redundant layer for account *authentication*. Services that provide
-*authorization* redundancy are certainly appreciated, but should not be
-considered Two Factor Auth.
-
-As an example, a site that prompts you for an authentication token following
-user login would be considered Two Factor Auth. A site that does not prompt you
-for a token upon login, but prompts you for a token when you try to perform a
-sensitive action would not be considered Two Factor Authentication.
-
-For context, check out the discussion in issue [#242][242].
-
-[242]: https://github.com/2factorauth/twofactorauth/issues/242
 [exclude]: /EXCLUSION.md
 [bundler]: http://bundler.io/
 [gemfile]: /Gemfile

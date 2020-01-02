@@ -10,10 +10,10 @@ A list of stores using Lightning as a payment method
 
 The goal is to build a website ([LightningTracker.io]()) with a comprehensive list of sites that support Lightning Payments.
 
-## Contributing
+<!-- ## Contributing
 
 If you'd like to contribute, read the entire guidelines here in
-[CONTRIBUTING.md][contrib].
+[CONTRIBUTING.md][contrib]. -->
 
 ## Running Locally
 
