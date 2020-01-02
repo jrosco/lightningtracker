@@ -4,7 +4,6 @@ websites:
     img: example.png
     lightning: Yes 
     bitcoin: Yes
-    # other: No
     other: BTC, LTC, ETH, XMR, ZCASH, Others
     summary:
       text: example store testing
@@ -23,7 +22,7 @@ websites:
     img: 
     lightning: Yes 
     bitcoin: No
-    other: No
+    altcoins: No
     summary:
       text: example store testing
     keywords: example store testing
@@ -32,6 +31,6 @@ websites:
     linkedin: example
     facebook: 
     country: N/A
-    node:
-      key: 03e02d965aea25de84613a345e36573d2bd8c6d6dd47d9a516d233098c281d3ea3
-      uri: 127.0.0.1:9735
+    # node:
+    #   key: 03e02d965aea25de84613a345e36573d2bd8c6d6dd47d9a516d233098c281d3ea3
+    #   uri: 127.0.0.1:9735
