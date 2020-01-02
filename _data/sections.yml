@@ -77,6 +77,9 @@
 - icon: car
   id: transport
   title: Transport
+- icon: travel
+  id: travel
+  title: Travel
 - icon: phone
   id: utilities
   title: Utilities
