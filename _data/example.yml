@@ -4,7 +4,7 @@ websites:
     img: example.png
     lightning: Yes 
     bitcoin: Yes
-    other: BTC, LTC, ETH, XMR, ZCASH, Others
+    altcoins: BTC, LTC, ETH, XMR, ZCASH, Others
     summary:
       text: example store testing
     keywords: example store testing
