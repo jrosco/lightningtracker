@@ -1,10 +1,11 @@
+---
 websites:
   - name: LN.PIZZA
-    url: https://ln.pizza    
+    url: 'https://ln.pizza'
     img: ln-pizza.svg
-    lightning: Yes 
-    bitcoin: No
-    altcoins: No
+    lightning: 'Yes'
+    bitcoin: 'No'
+    altcoins: 'No'
     summary:
       text: ORDER DOMINO'S PIZZA OVER THE LIGHTNING NETWORK FROM ANYWHERE IN THE U.S.
     keywords: dominos pizza food
@@ -15,4 +16,4 @@ websites:
     country: US
     node:
       key: 02816caed43171d3c9854e3b0ab2cf0c42be086ff1bd4005acc2a5f7db70d83774
-      uri: mainnet-lnd.ln.pizza:9735
+      uri: 'mainnet-lnd.ln.pizza:9735'

@@ -8,7 +8,6 @@
       <th class="single line three wide"><h3>{{ section_title }}</h3></th>
       <th class="two wide">About</th>
       <th class="two wide">Payment Types</th>
-      <!-- <th class="two wide">Alt Coins</th> -->
     </tr>
     </thead>
     <tbody class="jets-content">
@@ -45,10 +44,10 @@
         <img src="img/bitcoin.png" width="40" height="40" title="Supports Bitcoin Payments">
         {% endif %}
         {% if website.lightning %}
-        <img src="img/logo.png" width="40" height="40" title="Supports Lightning Payments">
-          <!-- {% if website.node.uri %}
-          <a href="https://1ml.com/node/{{website.node.key}}" target="_blank">{{website.node.key}}@{{website.node.uri}}</a>
-          {% endif %} -->
+          {% if website.node.uri %}
+          <a href="https://1ml.com/node/{{website.node.key}}" target="_blank">
+          {% endif %}
+        <img src="img/logo.png" width="40" height="40" title="Supports Lightning Payments"></a>
         {% endif %}      
         {% if website.altcoins %}
           {% capture html %}
