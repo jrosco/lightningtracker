@@ -3,9 +3,9 @@ websites:
   - name: LN.PIZZA
     url: 'https://ln.pizza'
     img: ln-pizza.svg
-    lightning: 'Yes'
-    bitcoin: 'No'
-    altcoins: 'No'
+    lightning: true
+    bitcoin: false
+    altcoins: false
     summary:
       text: ORDER DOMINO'S PIZZA OVER THE LIGHTNING NETWORK FROM ANYWHERE IN THE U.S.
     keywords: dominos pizza food
