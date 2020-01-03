@@ -59,30 +59,6 @@
 - icon: shopping cart
   id: retail
   title: Retail
-- icon: ellipsis horizontal
-  id: other
-  title: Other
-- icon: credit card outline
-  id: payments
-  title: Payments
-- icon: shopping cart
-  id: retail
-  title: Retail
-- icon: unlock
-  id: security
-  title: Security
-- icon: users
-  id: social
-  title: Social
-- icon: car
-  id: transport
-  title: Transport
-- icon: phone
-  id: utilities
-  title: Utilities
-- icon: shield alternate
-  id: vpn
-  title: VPN Providers
 - icon: unlock
   id: security
   title: Security
