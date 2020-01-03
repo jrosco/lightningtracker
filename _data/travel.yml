@@ -1,0 +1,16 @@
+---
+websites:
+  - name: TravelbyBit
+    url: 'https://travelbybit.com'
+    img: logo.png
+    lightning: true
+    bitcoin: true
+    altcoins: 'LTC, BNB, USDT'
+    summary:
+      text: Travel the world and get rewarded in Bitcoin
+    keywords: Travel PoS Holiday Booking
+    twitter: travelbybit
+    instagram: travelbybit
+    linkedin: nil
+    facebook: travelbybitaustralia
+    country: AU

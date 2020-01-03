@@ -1,17 +1,33 @@
+---
 websites:
-  - name: Bitcoin-Lightning.de 
-    url: https://bitcoin-lightning.de
-    lightning: Yes 
-    Bitcoin: Yes
-    other: No
+  - name: Example.com
+    url: 'https://example.com'
+    img: example.png
+    lightning: true
+    bitcoin: true
+    altcoins: 'BTC, LTC, ETH, XMR, ZCASH, Others'
     summary:
-      text: Buy lightning-themed shirts
-    keywords: 
-    twitter: 
-    instagram: 
-    linkedin: 
-    facebook: 
-    country: 
+      text: example store testing
+    keywords: example store testing
+    twitter: example
+    instagram: example
+    linkedin: example
+    facebook: example
+    country: US
     node:
-      key: 03f02d965aea25de84613ad2be36573d2bd8c6d6dd47d9a516d233098c281d3ae7
-      uri: 85.25.255.147:9735
+      key: 03e02d965aea25de84613a345e36573d2bd8c6d6dd47d9a516d233098c281d3ea3
+      uri: '127.0.0.1:9735'
+  - name: Example2.com
+    url: 'https://example2.com'
+    img: null
+    lightning: true
+    bitcoin: false
+    altcoins: false
+    summary:
+      text: example store testing
+    keywords: example store testing
+    twitter: example
+    instagram: null
+    linkedin: example
+    facebook: null
+    country: CA
