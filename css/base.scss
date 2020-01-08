@@ -3,7 +3,7 @@
 
 @import 'mixins';
 @import 'colors';
-$primary-color: #39CCCC;
+$primary-color: #fcac00;
 
 html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td {
   margin: 0;
@@ -89,8 +89,8 @@ p {
 #search-wrapper {
   margin: 40px auto;
   position: relative;
-  text-align: left;
-  width: 60%;
+  text-align: center;
+  width: 40%;
 
   label {
     left: 17px;
@@ -98,7 +98,7 @@ p {
     top: 12px;
 
     i {
-      color: #333333;
+      color: #fcac00;
       display: inline-block;
       font-size: inherit;
       text-rendering: auto;
