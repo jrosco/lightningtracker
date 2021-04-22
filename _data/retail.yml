@@ -1,1 +1,16 @@
-
+websites:
+  - name: Bit Refill
+    url: https://www.bitrefill.com/
+    img: bitrefill-square.svg
+    lightning: true
+    bitcoin: true
+    altcoins: ETH, USDT, LTC, DOGE, DASH
+    summary:
+      text: Bitrefill provides products and services that allow anyone to live on cryptocurrency more easily. Bitrefill.com provides a catalog of gift cards, prepaid mobile refills, and Lightning networking services that can be purchased using Bitcoin and other cryptocurrencies worldwide. 
+    keywords: retail bitcoin gift vouchers card spend
+    twitter: bitrefill
+    instagram: bitrefill
+    facebook: bitrefill
+    node:
+      key: 030c3f19d742ca294a55c00376b3b355c3c90d61c6b6b39554dbc7ac19b141c14f
+      uri: 52.50.244.44:9735
