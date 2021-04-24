@@ -11,8 +11,10 @@
 
 ## Stores Category
 <!-- Ex. Travel, Retail, Gaming, Betting, Hosting etc -->
+
 ## Payment Methods
 <!-- Add x in the checkboxes below Ex. - [x] Yes -->
+
 ### Supports Lightning
 
 - [ ] Yes
@@ -32,6 +34,7 @@
 
 ## Social Media Accounts
 <!-- Add any social media handles below Ex. Bitrefill -->
+
 ### Twitter Account Handle?
 
 ### Facebook Account Handle?
