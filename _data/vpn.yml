@@ -1,1 +1,11 @@
-
+websites:
+  - name: TorGuard
+    url: 'https://torguard.net/index.php'
+    img: torguard.ico
+    lightning: true
+    bitcoin: true
+    altcoins: 'LTC'
+    summary:
+      text: TorGuard VPN Service encrypts your internet access and provides an anonymous IP so you can browse securely
+    keywords: vpn litecoin lightning bitcoin network networking private privacy  
+    twitter: TorGuard

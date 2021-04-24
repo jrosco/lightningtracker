@@ -5,7 +5,7 @@ title: Lightning Store Tracker
 author: Joel Ross
 description:
     A list of stores using Lightning and/or Bitcoin as a payment method.
-url: http://lightningtracker.io
+url: https://www.lightningtracker.io
 repo: https://github.com/jrosco/lightningtracker
 img: img/logo.png
 sass:

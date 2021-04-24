@@ -1,16 +1,33 @@
 websites:
   - name: LN Games 
     url: https://lngames.net/
+    img: ln-games.ico
     sections:
       - games 
       - betting
-    lightning: Yes 
-    Bitcoin: No
-    other: No
+    lightning: true 
+    bitcoin: false
+    altcoins: false
     summary:
-      text: games betting
-    keywords: Games 
+      text: Games and Betting
+    keywords: games lightning gaming
     twitter: lngames_net 
     node:
       key: 03952f8756c036669440e06c782c7f21732886ccf04052e0e6e792f8f5a490f6aa
       uri: 207.180.252.186:9735
+  - name: JoltFun
+    url: https://joltfun.com/
+    img: joltfun.ico
+    sections:
+      - games
+      - retail
+    lightning: true 
+    bitcoin: true
+    altcoins: false
+    summary:
+      text: Buy computer games with Bitcoin and Lightning
+    keywords: games bitcoin lightning gaming
+    twitter: joltfun 
+    node:
+      key: 032ebdae3314f072acd70e66e18572e6ba27f96918009369585e7cdcf36af3cf9e
+      uri: ln.joltfun.com:9889

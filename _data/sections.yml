@@ -1,106 +1,82 @@
 ---
-- icon: bullseye
-  id: betting
-  title: Betting
-- icon: cloud
-  id: cloud
-  title: Cloud Computing
-- icon: chat
-  id: communication
-  title: Communication
-- icon: btc
-  id: cryptocurrencies
-  title: Cryptocurrencies
-- icon: code
-  id: developer
-  title: Developer
-- icon: globe
-  id: domains
-  title: Domains
-- icon: book
-  id: education
-  title: Education
-- icon: mail
-  id: email
-  title: Email
-- icon: play
-  id: entertainment
-  title: Entertainment
-- icon: money
-  id: finance
-  title: Finance
+# - icon: bullseye
+#   id: betting
+#   title: Betting
+# - icon: cloud
+#   id: cloud
+#   title: Cloud Computing
+# - icon: chat
+#   id: communication
+#   title: Communication
+# - icon: btc
+#   id: cryptocurrencies
+#   title: Cryptocurrencies
+# - icon: code
+#   id: developer
+#   title: Developer
+# - icon: globe
+#   id: domains
+#   title: Domains
+# - icon: book
+#   id: education
+#   title: Education
+# - icon: mail
+#   id: email
+#   title: Email
+# - icon: play
+#   id: entertainment
+#   title: Entertainment
+# - icon: money
+#   id: finance
+#   title: Finance
 - icon: utensils
   id: food
   title: Food
 - icon: gamepad
   id: gaming
   title: Gaming
-- icon: heartbeat
-  id: health
-  title: Health
+# - icon: heartbeat
+#   id: health
+#   title: Health
 - icon: sitemap
   id: hosting
   title: Hosting/VPS
-- icon: id card
-  id: identity
-  title: Identity Management
-- icon: chart line
-  id: investing
-  title: Investing
-- icon: shopping cart
-  id: merchandise
-  title: Merchandise
-- icon: ellipsis horizontal
-  id: other
-  title: Other
-- icon: credit card outline
-  id: payments
-  title: Payments
-- icon: shopping cart
-  id: retail
-  title: Retail
-- icon: ellipsis horizontal
-  id: other
-  title: Other
-- icon: credit card outline
-  id: payments
-  title: Payments
+# - icon: id card
+#   id: identity
+#   title: Identity Management
+# - icon: chart line
+#   id: investing
+#   title: Investing
+# - icon: shopping cart
+#   id: merchandise
+#   title: Merchandise
+# - icon: ellipsis horizontal
+#   id: other
+#   title: Other
+# - icon: credit card outline
+#   id: payments
+#   title: Payments
 - icon: shopping cart
   id: retail
   title: Retail
-- icon: unlock
-  id: security
-  title: Security
-- icon: users
-  id: social
-  title: Social
-- icon: car
-  id: transport
-  title: Transport
+# - icon: unlock
+#   id: security
+#   title: Security
+# - icon: users
+#   id: social
+#   title: Social
+# - icon: car
+#   id: transport
+#   title: Transport
 - icon: travel
   id: travel
   title: Travel
-- icon: phone
-  id: utilities
-  title: Utilities
+# - icon: phone
+#   id: utilities
+#   title: Utilities
 - icon: shield alternate
   id: vpn
   title: VPN Providers
-- icon: unlock
-  id: security
-  title: Security
-- icon: users
-  id: social
-  title: Social
-- icon: car
-  id: transport
-  title: Transport
-- icon: phone
-  id: utilities
-  title: Utilities
-- icon: shield alternate
-  id: vpn
-  title: VPN Providers
-- icon: tasks
-  id: websites
-  title: Websites
+# - icon: tasks
+#   id: websites
+#   title: Websites
