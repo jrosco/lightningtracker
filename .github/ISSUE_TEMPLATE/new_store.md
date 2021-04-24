@@ -1,13 +1,18 @@
 # Add New Store
 
-## Company Name?
+## Store Name?
 <!-- Ex. Bitrefill -->
 
-## Company Website?
-<!-- Ex. [Bitreill](https://www.bitrefill.com) -->
+## Store Website?
+<!-- Ex. https://www.bitrefill.com -->
 
+## Summary of Store?
+<!-- Ex. Sells gift cards -->
+
+## Stores Category
+<!-- Ex. Travel, Retail, Gaming, Betting, Hosting etc -->
 ## Payment Methods
-
+<!-- Add x in the checkboxes below Ex. - [x] Yes -->
 ### Supports Lightning
 
 - [ ] Yes
@@ -20,16 +25,28 @@
 - [ ] No
 - [ ] Not sure
 
-## Social Media Accounts
+## Do they have a Lightning Node?
 
+### Nodes Public Key?
+<!-- Ex. 032ebdae3314f072acd70e66e18572e6ba27f96918009369585e7cdcf36af3cf9e -->
+
+## Social Media Accounts
+<!-- Add any social media handles below Ex. Bitrefill -->
 ### Twitter Account Handle?
-<!-- Ex. Bitrefill -->
 
 ### Facebook Account Handle?
-<!-- Ex. Bitrefill -->
 
 ### Instagram Account Handle?
-<!-- Ex. Bitrefill -->
 
 ### LinkedIn Account Handle?
-<!-- Ex. Bitrefill -->
+
+### Github Account Handle?
+
+### Reddit Name?
+
+### Telegram Name?
+
+### Youtube Channel?
+
+## Country Code?
+<!-- Ex. US -->
