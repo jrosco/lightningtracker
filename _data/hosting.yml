@@ -9,5 +9,5 @@ websites:
       text: Bitclouds is a 'streaming cloud' platform. You can order instances on per-minute accounting. You can create new instance right from your app or script, or simply manually with curl
     keywords: bitcoin lightning vps hosting
     twitter: bitcoinsoftwar1
-    # github: bitcoin-software
-    # telegram: BitClouds
+    github: bitcoin-software
+    telegram: BitClouds
