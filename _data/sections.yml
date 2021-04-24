@@ -35,6 +35,9 @@
 - icon: gamepad
   id: gaming
   title: Gaming
+- icon: computer
+  id: hardware
+  title: Hardware
 # - icon: heartbeat
 #   id: health
 #   title: Health
