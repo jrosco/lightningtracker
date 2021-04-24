@@ -11,7 +11,13 @@
       {% include row-title.html section=section_id website=website type='mobile' %}
       <div class="methods">
         {% if website.bitcoin %}<p><i class="checkmark small icon" title="Bitcoin"></i> Bitcoin</p>{% endif %}
-        {% if website.lightning %}<p><i class="checkmark small icon" title="Lightning"></i> Lightning</p>{% endif %}
+        {% if website.lightning %}
+          {% if website.node %}
+          <p> <a href="https://1ml.com/node/{{website.node.key}}" target="_blank"><i class="checkmark small icon" title="Lightning"></i> Lightning Node</a></p>
+          {% else %}
+          <p><i class="checkmark small icon" title="Lightning"></i> Lightning</a></p>
+          {% endif %}
+        {% endif %}
         {% if website.altcoins %}<p><i class="checkmark small icon" title="Altcoins"></i> Altcoins</p>{% endif %}
       </div>
       {% if website.summary %}
