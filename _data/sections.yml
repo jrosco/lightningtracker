@@ -38,9 +38,9 @@
 # - icon: heartbeat
 #   id: health
 #   title: Health
-# - icon: sitemap
-#   id: hosting
-#   title: Hosting/VPS
+- icon: sitemap
+  id: hosting
+  title: Hosting/VPS
 # - icon: id card
 #   id: identity
 #   title: Identity Management
@@ -74,9 +74,9 @@
 # - icon: phone
 #   id: utilities
 #   title: Utilities
-# - icon: shield alternate
-#   id: vpn
-#   title: VPN Providers
+- icon: shield alternate
+  id: vpn
+  title: VPN Providers
 # - icon: tasks
 #   id: websites
 #   title: Websites

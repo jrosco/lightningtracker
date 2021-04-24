@@ -1,5 +1,5 @@
 websites:
-  - name: Bit Refill
+  - name: BitRefill
     url: https://www.bitrefill.com/
     img: bitrefill-square.svg
     lightning: true
