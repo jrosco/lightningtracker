@@ -56,9 +56,9 @@
 # - icon: ellipsis horizontal
 #   id: other
 #   title: Other
-# - icon: credit card outline
-#   id: payments
-#   title: Payments
+- icon: credit card outline
+  id: payments
+  title: Payments
 - icon: shopping cart
   id: retail
   title: Retail
