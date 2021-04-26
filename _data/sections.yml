@@ -8,9 +8,6 @@
 # - icon: chat
 #   id: communication
 #   title: Communication
-# - icon: btc
-#   id: cryptocurrencies
-#   title: Cryptocurrencies
 # - icon: code
 #   id: developer
 #   title: Developer
@@ -20,6 +17,9 @@
 # - icon: book
 #   id: education
 #   title: Education
+- icon: btc
+  id: exchange
+  title: BTC/LN Exchanges
 # - icon: mail
 #   id: email
 #   title: Email
