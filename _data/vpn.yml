@@ -9,3 +9,19 @@ websites:
       text: TorGuard VPN Service encrypts your internet access and provides an anonymous IP so you can browse securely
     keywords: vpn litecoin lightning bitcoin network networking private privacy  
     twitter: TorGuard
+  - name: Surf Shark
+    url: https://surfshark.com/
+    img: surfshark.png
+    lightning: true
+    bitcoin: true
+    altcoins: 'ETH, LTC, DOGE, Others'
+    summary:
+      text: |
+        Trust is paramount for us. We seek trust by delivering high quality, 
+        working innovations in the cybersecurity sphere. Since its beginning, 
+        Surfshark has been recognized by a number of globally acknowledged independent organizations.
+    keywords: vpn litecoin lightning bitcoin network networking private privacy
+    twitter: surfshark
+    instagram: surfshark
+    facebook: SurfsharkPrivacy
+    youtube: UCEFFKGOqb1Mtvj3g3gjc6tQ
