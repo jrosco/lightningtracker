@@ -13,10 +13,8 @@ websites:
     url: https://lnpay.co/
     img: lnpay.ico
     lightning: true
-    summary:
-      text: |
-        Paywall.Link is a service powered by LNPay.co. LNPay.co provides public facing tools for Lightning users/businesses/merchants.
-    keywords: paywall service payment wallet lightning tools faucet webhooks developer
+    about: https://lnpay.co/home/about
+    keywords: merchants paywall service payment wallet lightning tools faucet webhooks developer
     twitter: LNPAYco
     telegram: paywallers
     node:
