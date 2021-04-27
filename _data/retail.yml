@@ -22,12 +22,7 @@ websites:
     lightning: true
     bitcoin: true
     altcoins: null
-    summary:
-      text: |
-        The Blockstream Store showcases the latest in Lightning technology. The Lightning Network is a new protocol layer built on top of Bitcoin. 
-        It uses cutting-edge smart contracting to achieve faster-than-VISA transaction throughput, while retaining the peer-to-peer nature of the bitcoin protocol. 
-        Not only does the Lightning Network enable faster and, cheaper Bitcoin payments, 
-        it also opens up a world of microtransaction use-cases that are not possible within the traditional financial system. 
+    about: https://blockstream.com/about/
     keywords: retail bitcoin store clothes stickers swag hardware wallet cold storage spend
     twitter: Blockstream
     facebook: Blockstream

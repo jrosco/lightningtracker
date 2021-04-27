@@ -1,7 +1,7 @@
 ---
 websites:
   - name: TravelbyBit
-    url: 'https://travelbybit.com'
+    url: https://travelbybit.com
     img: travelbybit.png
     lightning: true
     bitcoin: true

@@ -6,6 +6,9 @@
 ## Store Website?
 <!-- Ex. https://www.bitrefill.com -->
 
+## About Page Website?
+<!-- Ex. https://www.bitrefill.com/about -->
+
 ## Summary of Store?
 <!-- Ex. Sells gift cards -->
 
@@ -26,6 +29,9 @@
 - [ ] Yes
 - [ ] No
 - [ ] Not sure
+
+### Supports Altcoins
+<!-- List of supported Altcoins Ex. ETH, LTC, DOGE-->
 
 ## Do they have a Lightning Node?
 

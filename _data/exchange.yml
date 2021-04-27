@@ -4,8 +4,7 @@ websites:
     img: bitaroo.png
     lightning: true
     bitcoin: true
-    summary:
-      text: We want to trade on the best digital exchange in the world. So we are building it.
+    about: https://www.bitaroo.com.au/about/
     keywords: lightning bitcoin exchange buy sell
     twitter: BitarooExchange
     linkedin: bitaroo
@@ -18,8 +17,7 @@ websites:
     lightning: true
     bitcoin: true
     altcoins: ETH, LTC, TUSD, XMR, Others
-    summary:
-      text: We want to trade on the best digital exchange in the world. So we are building it.
+    about: https://fixedfloat.com/about
     keywords: lightning bitcoin exchange buy sell
     twitter: fixedfloat
     instagram: fixedfloat

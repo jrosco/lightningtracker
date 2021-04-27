@@ -1,6 +1,6 @@
 websites:
   - name: TorGuard
-    url: 'https://torguard.net/index.php'
+    url: https://torguard.net/
     img: torguard.ico
     lightning: true
     bitcoin: true

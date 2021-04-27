@@ -6,8 +6,9 @@ websites:
     lightning: true
     bitcoin: true
     altcoins: 'BTC, LTC, ETH, XMR, ZCASH, Others'
-    summary:
-      text: example store testing
+    about: example.com/about
+    # summary: # If no about page add a summary
+    #   text: example store testing
     keywords: example store testing
     twitter: example
     instagram: example

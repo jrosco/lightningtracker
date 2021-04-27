@@ -1,12 +1,11 @@
 websites:
   - name: Lightning Solutions
-    url: 'https://shop.nodl.it/en/'
+    url: https://shop.nodl.it/
     img: nodl.ico
     lightning: true
     bitcoin: true
     altcoins: null
-    summary:
-      text: Personal Bitcoin Assistant
+    about: https://www.nodl.it/team.html
     keywords: personal bitcoin assistant
     twitter: nodl_it
     instagram: nodl_it

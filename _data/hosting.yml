@@ -1,6 +1,6 @@
 websites:
   - name: Bitclouds VPS
-    url: 'https://bitclouds.sh/'
+    url: https://bitclouds.sh/
     img: bitclouds.png
     lightning: true
     bitcoin: true

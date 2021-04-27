@@ -1,13 +1,12 @@
 ---
 websites:
   - name: LN.PIZZA
-    url: 'https://ln.pizza'
+    url: https://ln.pizza
     img: ln-pizza.svg
     lightning: true
     bitcoin: false
     altcoins: false
-    summary:
-      text: Order Domino's pizza over the Lightning network from anywhere in the U.S.
+    about: https://ln.pizza/about
     keywords: dominos pizza food lightning
     twitter: fold_app
     instagram: foldapp

@@ -8,9 +8,8 @@ websites:
     lightning: true 
     bitcoin: false
     altcoins: false
-    summary:
-      text: Games and Betting
-    keywords: games lightning gaming
+    about: https://lngames.net/about
+    keywords: games lightning gaming betting
     twitter: lngames_net 
     github: lngamesnet
     node:
@@ -22,11 +21,11 @@ websites:
     sections:
       - games
       - retail
-    lightning: true 
+    lightning: true
     bitcoin: true
     altcoins: false
     summary:
-      text: Buy computer games with Bitcoin and Lightning
+      text: Buy Computer games with Lightning and Bitcoin
     keywords: games bitcoin lightning gaming
     twitter: joltfun
     node:
