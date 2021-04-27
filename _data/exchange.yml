@@ -1,0 +1,27 @@
+websites:
+  - name: Bitaroo
+    url: https://www.bitaroo.com.au
+    img: bitaroo.png
+    lightning: true
+    bitcoin: true
+    summary:
+      text: We want to trade on the best digital exchange in the world. So we are building it.
+    keywords: lightning bitcoin exchange buy sell
+    twitter: BitarooExchange
+    linkedin: bitaroo
+    reddit: Bitaroo
+    youtube: UCJNQZ8-MtOyKBs4P0vkWfXg
+    country: AU
+  - name: Fixed Float
+    url: https://fixedfloat.com/
+    img: fixedfloat.png
+    lightning: true
+    bitcoin: true
+    altcoins: ETH, LTC, TUSD, XMR, Others
+    summary:
+      text: We want to trade on the best digital exchange in the world. So we are building it.
+    keywords: lightning bitcoin exchange buy sell
+    twitter: fixedfloat
+    instagram: fixedfloat
+    reddit: FixedFloat
+    telegram: FixedFloat

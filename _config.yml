@@ -8,6 +8,7 @@ description:
 url: https://www.lightningtracker.io
 repo: https://github.com/jrosco/lightningtracker
 img: img/logo.png
+twitter: lightningtrackr
 sass:
     style: compressed
 

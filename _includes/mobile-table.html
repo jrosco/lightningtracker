@@ -7,53 +7,39 @@
   </div>
   <div class="jets-content">
     {% for website in section_file.websites %}
-    {% if website.lang and site.data.languages[website.lang] %}
-      {% assign progress_tweet = site.data.languages[website.lang].progress_tweet %}
-      {% assign workonit_tweet = site.data.languages[website.lang].work_tweet %}
-    {% else %}
-      {% assign progress_tweet = page.progress_tweet %}
-      {% assign workonit_tweet = page.workonit_tweet %}
-    {% endif %}
-    {% if website.status %}
-    <div class="main progress">
-      {% include row-title.html section=section_id website=website type='mobile' %}
-      <p>IN PROGRESS!</p>
-
-      <div>
-        <a class="ui twitter mini button"
-           href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{progress_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}"
-           target="_blank"><i class="twitter icon"></i> {{page.link_progress_mobile}}</a>
-      </div>
-    </div>
-    {% elsif website.lightning %}
     <div class="main positive">
       {% include row-title.html section=section_id website=website type='mobile' %}
       <div class="methods">
-        {% if website.hardware %}<p><i class="checkmark small icon" title="Hardware"></i> Hardware</p>{% endif %}
-        {% if website.software %}<p><i class="checkmark small icon" title="Software"></i> Software</p>{% endif %}
+        {% if website.bitcoin %}<p><i class="checkmark small icon" title="Bitcoin"></i> Bitcoin</p>{% endif %}
+        {% if website.lightning %}
+          {% if website.node %}
+          <p> <a href="https://1ml.com/node/{{website.node.key}}" target="_blank"><i class="checkmark small icon" title="Lightning"></i> Lightning Node</a></p>
+          {% else %}
+          <p><i class="checkmark small icon" title="Lightning"></i> Lightning</a></p>
+          {% endif %}
+        {% endif %}
         {% if website.altcoins %}<p><i class="checkmark small icon" title="Altcoins"></i> Altcoins</p>{% endif %}
-        <!-- {% if website.phone %}<p><i class="checkmark small icon" title="Phone"></i> Phone</p>{% endif %} -->
-        {% if website.email %}<p><i class="checkmark small icon" title="Email"></i> Email</p>{% endif %}
       </div>
-      {% if website.doc %}
-      <div class="button-group">
-        <a alt="Documentation" href="{{ website.doc }}" class="ui twitter mini button"><i class="large book icon"></i> Docs</a>
+      {% if website.summary %}
+      {% capture html %}
+      <div class='header'>
+            Summary
+      </div>
+      <div class='content'>
+        {% if website.summary.text %}
+        {{ website.summary.text }}
+        {% endif %}
+      </div>
+      {% endcapture %}
+      {% if website.summary.text %}
+      <div class="ui green mini button">
+        <span class="popup exception" data-position="bottom center" data-html="{{ html | strip_newlines }}">
+          <i class="book large icon"></i>
+        </span>
       </div>
       {% endif %}
+      {% endif %}
     </div>
-    {% else %}
-    <div class="main negative">
-      {% include row-title.html section=section_id website=website type='mobile' %}
-      <div class="methods">
-        <p><i class="ban small icon" title="None"></i> 2FA not supported</p>
-      </div>
-      <div class="button-group">
-        {% if website.twitter %} <a class="ui twitter mini button" alt="Twitter" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i></a>{% endif %}
-        {% if website.facebook %} <a class="ui facebook mini button" alt="Facebook" href="https://facebook.com/{{website.facebook}}/" target="_blank"><i class="facebook icon"></i></a>{%endif%}
-        {% if website.email_address %} <a class="ui green mini button" alt="Email" href="mailto:{{website.email_address}}?subject=Support%20Two%20Factor%20Authentication" target="_blank"><i class="mail icon"></i></a>{% endif %}
-      </div>
-    </div>
-    {% endif %}
     {% endfor %}
   </div>
 </div>

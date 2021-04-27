@@ -13,6 +13,10 @@ websites:
     instagram: example
     linkedin: example
     facebook: example
+    github: example
+    telegram: example
+    reddit: example
+    youtube: example
     country: US
     node:
       key: 03e02d965aea25de84613a345e36573d2bd8c6d6dd47d9a516d233098c281d3ea3
@@ -30,4 +34,8 @@ websites:
     instagram: null
     linkedin: example
     facebook: null
+    github: null
+    telegram: example
+    youtube: example
+    reddit: null
     country: CA

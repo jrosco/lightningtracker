@@ -1,1 +1,15 @@
-
+websites:
+  - name: foldapp
+    url: 'https://foldapp.com/'
+    img: foldapp.png
+    lightning: true
+    bitcoin: true
+    altcoins: false
+    summary:
+      text: |
+        We’re here to bring Bitcoin to everyone. Fold is building the payments stack for a new economy— one that puts privacy and bitcoin within reach of every shopper.
+        While current on-ramps are complex, expensive and primarily built for speculators, we believe in ushering in the next wave of adoption via on-ramps built for everyone else:
+        spenders, earners and savers.
+    keywords: dominos pizza food lightning
+    twitter: fold_app
+    instagram: foldapp
