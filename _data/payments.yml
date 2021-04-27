@@ -13,3 +13,16 @@ websites:
     keywords: dominos pizza food lightning
     twitter: fold_app
     instagram: foldapp
+  - name: LNPay.co
+    url: https://lnpay.co/
+    img: lnpay.ico
+    lightning: true
+    summary:
+      text: |
+        Paywall.Link is a service powered by LNPay.co. LNPay.co provides public facing tools for Lightning users/businesses/merchants.
+    keywords: paywall service payment wallet lightning tools faucet webhooks developer
+    twitter: LNPAYco
+    telegram: paywallers
+    node:
+      key: 033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500
+      uri: ln-1.slinginsats.com:9735
