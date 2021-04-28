@@ -42,14 +42,14 @@
       {% endif %}
       <td class="positive icon">
         {% if website.bitcoin %}
-        <img src="img/bitcoin.png" width="40" height="40" title="Supports Bitcoin Payments">
+        <img src="img/bitcoin.png" width="30" height="30" title="Supports Bitcoin Payments">
         {% endif %}
         {% if website.lightning %}
           {% if website.node.uri %}
           <a href="https://1ml.com/node/{{website.node.key}}" target="_blank">
           {% endif %}
-        <img src="img/logo.png" width="40" height="40" title="Supports Lightning Payments"></a>
-        {% endif %}      
+        <img src="img/logo.png" width="30" height="30" title="Supports Lightning Payments"></a>
+        {% endif %}
         {% if website.altcoins %}
           {% capture html %}
           <div class='header'>
@@ -63,7 +63,7 @@
           {% endcapture %}
           {% if website.altcoins %}
           <span class="popup exception" data-position="bottom center" data-html="{{ html | strip_newlines }}">
-            <img src="img/altcoin.png"  width="40" height="40" title="Supports Other Coin Payments">
+            <img src="img/altcoin.png"  width="35" height="30" title="Supports Other Coin Payments">
           </span>
           {% endif %}
         {% endif %}
