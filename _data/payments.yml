@@ -45,3 +45,13 @@ websites:
     facebook: paywithmoon
     instagram: paywithmoon
     discord: E9TP7wPtZF
+  - name: GetSpendl
+    url: https://getspendl.com/
+    img: getspendl.ico
+    lightning: true
+    bitcoin: true
+    summary:
+      text: |
+        Pay online and in stores with instant crypto virtual cards
+    keywords: lightning pay credit card virtual
+    twitter: getSpendl
