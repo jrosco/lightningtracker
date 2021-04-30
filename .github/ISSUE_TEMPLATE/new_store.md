@@ -41,19 +41,21 @@
 ## Social Media Accounts
 <!-- Add any social media handles below Ex. Bitrefill -->
 
-### Twitter Account Handle?
+### Discord Server?
 
 ### Facebook Account Handle?
+
+### Github Account Handle?
 
 ### Instagram Account Handle?
 
 ### LinkedIn Account Handle?
 
-### Github Account Handle?
-
 ### Reddit Name?
 
 ### Telegram Name?
+
+### Twitter Account Handle?
 
 ### Youtube Channel?
 

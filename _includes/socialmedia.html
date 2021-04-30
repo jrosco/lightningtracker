@@ -38,3 +38,8 @@
 <a class="ui youtube" href="https://www.youtube.com/channel/{{website.youtube}}/" target="_blank"><i
     class="youtube large icon"></i></a>
 {% endif %}
+
+{% if website.discord %}
+<a class="ui discord" href="https://discord.gg/{{website.discord|cgi_escape}}" target="_blank"><i 
+    class="discord large icon"></i></a>
+{% endif %}
