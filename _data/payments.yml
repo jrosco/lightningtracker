@@ -1,10 +1,9 @@
 websites:
   - name: foldapp
-    url: 'https://foldapp.com/'
+    url: https://foldapp.com/
     img: foldapp.png
     lightning: true
     bitcoin: true
-    altcoins: false
     summary:
       text: |
         We’re here to bring Bitcoin to everyone. Fold is building the payments stack for a new economy— one that puts privacy and bitcoin within reach of every shopper.
@@ -26,3 +25,32 @@ websites:
     node:
       key: 033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500
       uri: ln-1.slinginsats.com:9735
+  - name: PayWithMoon
+    url: https://paywithmoon.com/
+    img: paywithmoon.png
+    lightning: true
+    bitcoin: true
+    altcoins: ETH,LTC,BCH
+    about: https://paywithmoon.com/about
+    summary:
+      text: |
+        We believe that cryptocurrency is the future of money. 
+        Our team is building the technologies to bring this future to fruition. 
+        We are engineers, builders and enthusiasts who love Bitcoin and the change 
+        it will bring to the world. We hope our efforts drive adoption of 
+        cryptocurrency and help educate consumers on the benefits of crypto for payments.
+    keywords: lightning pay credit card virtual
+    twitter: paywithmoon
+    facebook: paywithmoon
+    instagram: paywithmoon
+    discord: E9TP7wPtZF
+  - name: GetSpendl
+    url: https://getspendl.com/
+    img: getspendl.ico
+    lightning: true
+    bitcoin: true
+    summary:
+      text: |
+        Pay online and in stores with instant crypto virtual cards
+    keywords: lightning pay credit card virtual
+    twitter: getSpendl
