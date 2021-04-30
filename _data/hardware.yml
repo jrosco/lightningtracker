@@ -17,3 +17,12 @@ websites:
     reddit: null
     youtube: null
     country: FR
+  - name: Fulmo
+    url: 'https://shop.fulmo.org/'
+    img: fulmo.png
+    lightning: false
+    bitcoin: true
+    summary:
+      text: Bitcoin & Lightning Full Nodes, Parts, Components, Bitcoin Stickers, ...
+    keywords: hardware bitcoin node
+    twitter: fulmolightning
