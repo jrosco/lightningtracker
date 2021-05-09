@@ -32,3 +32,14 @@ websites:
     node:
       key: 032ebdae3314f072acd70e66e18572e6ba27f96918009369585e7cdcf36af3cf9e
       uri: ln.joltfun.com:9889
+  - name: lightnite.io
+    url: https://lightnite.io/
+    img: lightnite.png
+    sections: games
+    lightning: true 
+    summary:
+      text: Bitcoin micro-transactions add a new level of interaction within the game. Players can get bitcoin instantly as they shoot opponents. All in-game items have a real value which players can consume or trade to withdraw your balance using Lightning Network zap. So... What are you waiting for? Start to loot your opponents now! But... Don't waste too much time or you will be other's loot!
+    keywords: games bitcoin lightning gaming
+    twitter: lightnitegame
+    facebook: Lightnite-Game-109424990472715
+    youtube: UCYscYxwPknmu-_J1M0LZ_wg

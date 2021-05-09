@@ -20,3 +20,15 @@ websites:
       text: Bitcoin & Lightning Full Nodes, Parts, Components, Bitcoin Stickers, ...
     keywords: hardware bitcoin node
     twitter: fulmolightning
+  - name: Cryptocloaks
+    url: https://www.cryptocloaks.com/
+    img: cryptocloaks.jpg
+    lightning: true
+    bitcoin: true
+    about: https://www.cryptocloaks.com/aboutus/
+    summary:
+      text: CryptoCloaks LLC was born from the love of 3D printing and the idea of Bitcoin. Our passion for 3D design sparked in December of 2017 with our first product, a Ledger Nano S mount. This product allowed us to safely and securely keep the Ledger hidden. After the success from this mount we quickly grew and have been designing and manufacturing ever since, thanks to our customers who believe in our products!
+    keywords: hardware bitcoin node
+    twitter: cryptocloaks
+    facebook: CryptoCloaks
+    instagram: cryptocloaks

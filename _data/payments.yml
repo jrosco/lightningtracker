@@ -54,3 +54,16 @@ websites:
         Pay online and in stores with instant crypto virtual cards
     keywords: lightning pay credit card virtual
     twitter: getSpendl
+  - name: Lastbit
+    url: https://lastbit.io/
+    img: lastbit.png
+    lightning: true
+    bitcoin: true
+    about: https://lastbit.io/about/
+    summary:
+      text: We want to make it possible for the first time in the history of electronic money to make an instant, global payment in fiat or Bitcoin for obscenely low fees
+    keywords: payment
+    twitter: lastbitpay
+    instagram: lastbit.io
+    github: labit-io
+    youtube: UCbOU3E0nmSQPbn-GyHOymNg
