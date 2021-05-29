@@ -67,3 +67,15 @@ websites:
     instagram: lastbit.io
     github: labit-io
     youtube: UCbOU3E0nmSQPbn-GyHOymNg
+  - name: zebedee
+    url: https://zebedee.io/
+    img: zebedee.ico
+    lightning: true
+    bitcoin: false
+    summary:
+      text: We built ZEBEDEE for game developers. Use our Developer Dashboard to add Bitcoin to your games in innovative ways. Make the points in your game matter by using a programmable currency with value in the real world.
+    keywords: payment gaming
+    twitter: zebedeeio
+    node:
+      key: 03d6b14390cd178d670aa2d57c93d9519feaae7d1e34264d8bbb7932d47b75a50d
+      uri: 75.2.55.32:9735
